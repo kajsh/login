@@ -1,0 +1,36 @@
+body {
+    background-color: mediumslateblue;
+    margin-top: 150px; 
+    font-size: 20px;
+}
+.left-box {
+    text-align: center;
+    color: white;
+    padding: 30px;
+    position: absolute;
+    left: 35%;
+}
+.left-box .main{
+    border-radius: 1.5rem;
+    border: none;
+    background: white;
+    color: blue;
+    padding: 10px;
+    
+}
+.right-box {
+    text-align: center;
+    color: white;
+    padding: 30px;
+    position: absolute;
+    left: 50%;
+
+}
+.right-box .main{
+    border-radius: 1.5rem;
+    border: none;
+    background: white;
+    color: blue;
+    padding: 10px;
+    
+}
